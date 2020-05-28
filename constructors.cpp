@@ -1,0 +1,1 @@
+// Define constructors to guarantee and simplify initialization of classes.
